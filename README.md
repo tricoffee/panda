@@ -11,7 +11,7 @@ https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda1.0.5.dmg
 支持MacOS 10.10以上
 
 ## Android端安装包下载地址：
-https://github.com/Panda-VPN/panda/releases/download/v1.0.5/pandavpnprov1.1.4.apk
+https://github.com/Panda-VPN/panda/releases/download/v1.0.5/pandavpnprov1.2.1.apk
 
 或点击此链接进入到Google Play下载：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
