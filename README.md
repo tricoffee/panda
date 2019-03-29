@@ -22,5 +22,9 @@ iOS 1.0.2
 支持iOS 9以上
 PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“pandavpn”进行下载
 
+Apple账号: f98d0ulc@icloud.com
+Apple账号: r166h23n@icloud.com
+密码: Pandapro1
+密码: Pandapro1
 为了确保Apple ID长久使用，如果遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合
 
