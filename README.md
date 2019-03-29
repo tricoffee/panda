@@ -15,7 +15,7 @@ https://github.com/Panda-VPN/panda/releases/download/v1.0.5/pandavpnprov1.1.4.ap
 
 或点击此链接进入到Google Play下载： https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
-Android安装包支持Android 4.4+
+Android安装包支持Android 5.0+
 
 ## IOS端请切换至国外Apple ID，搜pandavpn下载：
 iOS 1.0.2
