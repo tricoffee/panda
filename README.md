@@ -1,9 +1,10 @@
 # PandaVPN 安装包下载地址
 
 ## Windows端安装包下载地址：
-https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda_setup_1.0.5.exe
-
-此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
+ QT版本：
+ https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda_setup_1.0.5.exe
+ 
+ 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
 ## Mac端安装包下载地址：
 https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda1.0.5.dmg
