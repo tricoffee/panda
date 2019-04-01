@@ -18,11 +18,11 @@ https://github.com/Panda-VPN/panda/releases/download/v1.0.5/pandavpnprov1.2.1.ap
 
 Android安装包支持Android 5.0+
 
-## IOS端请切换至App Store非中国大陆区，搜索PandaVPN下载安装
+## IOS端安装包下载地址：
 
 支持iOS 9以上
 
-PandaVPN不支持中国区App Store下载，请使用下面账号前往美区搜索“PandaVPN”进行下载：
+PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“pandavpn”进行下载：
 
 Apple账号: f98d0ulc@icloud.com 密码: Pandapro1
 
