@@ -20,7 +20,7 @@ Support: MacOS 10.10+
 
 https://github.com/Panda-VPN/panda/releases/download/v1.0.5/pandavpnprov1.2.1.apk
 
-或点击此链接进入到Google Play下载(or click this link to download via Google Plya)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
+或点击此链接进入到Google Play下载(or click this link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
 Android安装包支持Android 5.0+
 
@@ -36,8 +36,8 @@ PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜�
 
 Please switch to the following US App Store account and search "pandavpn" to download
 
-Apple账号: f98d0ulc@icloud.com 密码: Pandapro1
+Apple ID: f98d0ulc@icloud.com 密码(Password): Pandapro1
 
-Apple账号: r166h23n@icloud.com 密码: Pandapro1
+Apple ID: r166h23n@icloud.com 密码(Password): Pandapro1
 
 
