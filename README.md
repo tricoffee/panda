@@ -1,31 +1,39 @@
-# PandaVPN 安装包下载地址
+# PandaVPN 
 
 ## Windows端安装包下载地址：
- QT版本：
+Windows version
  https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda_setup_1.0.5.exe
  
- 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
+此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
+Support: Win7 /Win8 /Win10, please exit the anti-virus software before downloading and installing Panda
 
 ## Mac端安装包下载地址：
+Mac version
 https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda1.0.5.dmg
 
 支持MacOS 10.10+
+Support: MacOS 10.10+
 
 ## Android端安装包下载地址：
+Androdid
 https://github.com/Panda-VPN/panda/releases/download/v1.0.5/pandavpnprov1.2.1.apk
 
 或点击此链接进入到Google Play下载：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
 Android安装包支持Android 5.0+
+Support: Android 5.0+
 
 ## IOS端安装包下载地址：
+iOS version
 
 支持iOS 9以上
+Support: iOS 9+
 
 PandaVPN不支持中国区AppStore下载，请使用下面账号前往美区搜索“pandavpn”进行下载：
+Please switch to the following US App Store account and search "pandavpn" to download
 
 Apple账号: f98d0ulc@icloud.com 密码: Pandapro1
 
 Apple账号: r166h23n@icloud.com 密码: Pandapro1
 
-为了确保Apple ID长久使用，如遇到账号被锁无法登录等情况，请联系客服处理，不要频繁使用错误密码登录，会导致账号被禁用；谢谢配合！
+
