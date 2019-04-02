@@ -4,7 +4,7 @@
 
  https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda_setup_1.0.5.exe
  
-此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
+支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
 
 Support: Win7 /Win8 /Win10, please exit the anti-virus software before downloading and installing Panda
 
@@ -22,7 +22,7 @@ https://github.com/Panda-VPN/panda/releases/download/v1.0.5/pandavpnprov1.2.1.ap
 
 或点击此链接进入到Google Play下载(or click this link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
-Android安装包支持Android 5.0+
+支持Android 5.0+
 
 Support: Android 5.0+
 
