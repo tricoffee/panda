@@ -1,7 +1,8 @@
 # PandaVPN 
 
 ## Windows端安装包下载地址：
-Windows version
+Windows Version
+
  https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda_setup_1.0.5.exe
  
 此安装包支持Windows 7/8/10，下载安装前请先退出杀毒软件并关闭360相关应用程序，再进行下载安装；
@@ -10,7 +11,8 @@ Support: Win7 /Win8 /Win10, please exit the anti-virus software before downloadi
 
 ## Mac端安装包下载地址：
 
-Mac version
+Mac Version
+
 https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda1.0.5.dmg
 
 支持MacOS 10.10+
@@ -18,7 +20,7 @@ https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda1.0.5.dmg
 Support: MacOS 10.10+
 
 ## Android端安装包下载地址：
-Androdid Verison
+Android Verison
 
 https://github.com/Panda-VPN/panda/releases/download/v1.0.5/pandavpnprov1.2.1.apk
 
