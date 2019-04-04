@@ -12,7 +12,7 @@ Support: Win7 /Win8 /Win10, please exit the anti-virus software before downloadi
 
 https://github.com/Panda-VPN/panda/releases/download/v1.0.5/panda1.0.5.dmg
 
-支持MacOS 10.10+
+支持MacOS 11+
 
 Support: MacOS 10.10+
 
