@@ -18,7 +18,7 @@ Support: MacOS 10.10+
 
 ## Android：
 
-https://github.com/Panda-VPN/panda/releases/download/android.v1.2.2/pandavpnprov1.2.2.apk
+https://github.com/Panda-VPN/panda/releases/download/android.v1.2.6/pandavpnprov1.2.6.apk
 
 或点击此链接进入到Google Play下载(or click the following link to download via Google Play)：https://play.google.com/store/apps/details?id=com.pandavpn.androidproxy
 
